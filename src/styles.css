@@ -1,0 +1,21 @@
+.App {
+  font-family: sans-serif;
+}
+
+h3 {
+  margin: 0 20px;
+}
+
+ul {
+  list-style: none;
+  text-align: left;
+  padding: 0;
+}
+
+li {
+  margin: 5px 0;
+}
+
+li > * {
+  margin: 0 20px;
+}
